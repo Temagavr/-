@@ -1,0 +1,9 @@
+﻿  Calculate.cpp
+E:\МЛиТА\Calculate\Calculate\Calculate.cpp(33,24): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода
+E:\МЛиТА\Calculate\Calculate\Calculate.cpp(87): warning C4715: print_down_bin: значение возвращается не при всех путях выполнения
+  2 of 278 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Calculate.vcxproj -> E:\МЛиТА\Calculate\Release\Calculate.exe
